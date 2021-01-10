@@ -1,0 +1,13 @@
+<scheme name="NoseArmy" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-12-18T17:08:38</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2020-12-18T17:16:09</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="2f2a2a" />
+    <option name="IMAGES_BACKGROUND" value="323537" />
+  </colors>
+</scheme>
